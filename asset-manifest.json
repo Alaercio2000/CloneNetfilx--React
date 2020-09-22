@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CloneNetfilx--React/static/css/main.d2d95c88.chunk.css",
+    "main.css": "/CloneNetfilx--React/static/css/main.a473e846.chunk.css",
     "main.js": "/CloneNetfilx--React/static/js/main.4191eedd.chunk.js",
     "main.js.map": "/CloneNetfilx--React/static/js/main.4191eedd.chunk.js.map",
     "runtime-main.js": "/CloneNetfilx--React/static/js/runtime-main.5c87d37f.js",
@@ -8,9 +8,9 @@
     "static/js/2.3b2dc6e2.chunk.js": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js",
     "static/js/2.3b2dc6e2.chunk.js.map": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js.map",
     "index.html": "/CloneNetfilx--React/index.html",
-    "precache-manifest.998e2c7b0d3303be8ddcc1ba6b3488c5.js": "/CloneNetfilx--React/precache-manifest.998e2c7b0d3303be8ddcc1ba6b3488c5.js",
+    "precache-manifest.ca7ab3032248c8b3f8570722a7adc690.js": "/CloneNetfilx--React/precache-manifest.ca7ab3032248c8b3f8570722a7adc690.js",
     "service-worker.js": "/CloneNetfilx--React/service-worker.js",
-    "static/css/main.d2d95c88.chunk.css.map": "/CloneNetfilx--React/static/css/main.d2d95c88.chunk.css.map",
+    "static/css/main.a473e846.chunk.css.map": "/CloneNetfilx--React/static/css/main.a473e846.chunk.css.map",
     "static/js/2.3b2dc6e2.chunk.js.LICENSE.txt": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js.LICENSE.txt",
     "static/media/loading.gif": "/CloneNetfilx--React/static/media/loading.7bcb0095.gif",
     "static/media/logo.png": "/CloneNetfilx--React/static/media/logo.6933981b.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5c87d37f.js",
     "static/js/2.3b2dc6e2.chunk.js",
-    "static/css/main.d2d95c88.chunk.css",
+    "static/css/main.a473e846.chunk.css",
     "static/js/main.4191eedd.chunk.js"
   ]
 }
