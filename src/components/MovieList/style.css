@@ -68,8 +68,8 @@
 }
 
 @media (max-width:760px) {
-    .movieRow--left,
-    .movieRow--right {
+    .movieList--left,
+    .movieList--right {
         opacity: 1;
     }
 }
