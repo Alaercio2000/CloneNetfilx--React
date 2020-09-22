@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CloneNetfilx--React/static/css/main.e33d8561.chunk.css",
-    "main.js": "/CloneNetfilx--React/static/js/main.c2495870.chunk.js",
-    "main.js.map": "/CloneNetfilx--React/static/js/main.c2495870.chunk.js.map",
+    "main.js": "/CloneNetfilx--React/static/js/main.4191eedd.chunk.js",
+    "main.js.map": "/CloneNetfilx--React/static/js/main.4191eedd.chunk.js.map",
     "runtime-main.js": "/CloneNetfilx--React/static/js/runtime-main.5c87d37f.js",
     "runtime-main.js.map": "/CloneNetfilx--React/static/js/runtime-main.5c87d37f.js.map",
     "static/js/2.3b2dc6e2.chunk.js": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js",
     "static/js/2.3b2dc6e2.chunk.js.map": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js.map",
     "index.html": "/CloneNetfilx--React/index.html",
-    "precache-manifest.3d8fcc750235ee6c61659dbad4076f48.js": "/CloneNetfilx--React/precache-manifest.3d8fcc750235ee6c61659dbad4076f48.js",
+    "precache-manifest.fbb7181317d133da89459b0b0a74782d.js": "/CloneNetfilx--React/precache-manifest.fbb7181317d133da89459b0b0a74782d.js",
     "service-worker.js": "/CloneNetfilx--React/service-worker.js",
     "static/css/main.e33d8561.chunk.css.map": "/CloneNetfilx--React/static/css/main.e33d8561.chunk.css.map",
     "static/js/2.3b2dc6e2.chunk.js.LICENSE.txt": "/CloneNetfilx--React/static/js/2.3b2dc6e2.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5c87d37f.js",
     "static/js/2.3b2dc6e2.chunk.js",
     "static/css/main.e33d8561.chunk.css",
-    "static/js/main.c2495870.chunk.js"
+    "static/js/main.4191eedd.chunk.js"
   ]
 }
