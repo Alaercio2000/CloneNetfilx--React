@@ -15,7 +15,6 @@ export default ({ item }) => {
     const limitText = (text) => {
         let limit = text;
         if (limit.length > 150) {
-            console.log('teste');
             limit = text.substr(0, 150) + '...';
         }
 
